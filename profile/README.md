@@ -17,7 +17,7 @@
   
 - /uptime top —> Bestenliste von der Onlinezeit
 
-- [ ] Hoch Teleportieren beim Spawn
+- [x] Hoch Teleportieren beim Spawn
 
 - [ ] Item stacking
 
@@ -28,6 +28,7 @@
 - [ ] Crystals machen weniger Schaden und zerstören nichts
 
 - [ ] Combat Plugin
+- [ ] EmojiFeature
 - 
    Ein Spieler kommt in einen Combat Modus, wenn er von einem anderen Spieler geschlagen wird.
    Dieser Combat Modus ist für 30 Sekunden aktiv und wird unten angezeigt. 
