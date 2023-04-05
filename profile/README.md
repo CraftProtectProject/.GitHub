@@ -27,11 +27,13 @@
 
 - [ ] Death counter
 
+- [ ] Sleep Plugin (nur die Hälfe aller Spieler müssen schlafen)
+
 - [ ] Crystals machen weniger Schaden und zerstören nichts
 
 - [ ] EmojiFeature mit tp (lebaasti)
 
-- [ ] Combat Plugin
+- [ ] Combat Plugin:
 
 - 
    Ein Spieler kommt in einen Combat Modus, wenn er von einem anderen Spieler geschlagen wird.
@@ -42,3 +44,6 @@
 - [ ] Töten
 - 
   Ein Spieler kann einen Spieler nur alle 12 Stunden töten
+# Discord
+- [ ] Das Plugin übernimmt die Rollen von Discord
+- [ ] Jeder Spieler muss sich mit einem Command verknüpfen (/dc)
